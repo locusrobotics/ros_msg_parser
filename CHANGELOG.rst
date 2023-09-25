@@ -2,8 +2,8 @@
 Changelog for package ros_msg_parser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.0 (2023-09-25)
+------------------
 * Updating span.hpp, to account for new CXX17 and 20
 * fix license
 * 1.0.0
