@@ -2,6 +2,9 @@
 Changelog for package ros_msg_parser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.2.0 (2024-02-02)
+------------------
+
 1.1.0 (2023-09-25)
 ------------------
 * Updating span.hpp, to account for new CXX17 and 20
